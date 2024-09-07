@@ -3,7 +3,7 @@ Projeto desenvolvido durante a Imersão Dev com Google Gemini ministrado pela Al
 
 [Acesse a Demo aqui](https://novels-chinesas.vercel.app)
 
-![Minha imagem](img/exemplo.png)
+![Exemplo do Site](img/exemplo.png)
 
 ## **Seu Guia para a Biblioteca de Novels Chinesas**
 
