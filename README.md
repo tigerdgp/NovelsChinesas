@@ -1,6 +1,8 @@
 # Novels Chinesas
 Projeto desenvolvido durante a Imersão Dev com Google Gemini ministrado pela Alura
 
+Demo: https://novels-chinesas.vercel.app
+
 ## **Seu Guia para a Biblioteca de Novels Chinesas**
 
 ### **O que é esse projeto?**
